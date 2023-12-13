@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practicas/Practica12/EjercicioPE/src/cilindro.cc
+cilindro.h
+/home/usuario/practicas/Practica12/EjercicioPE/src/cilindro.h
+
+/home/usuario/practicas/Practica12/EjercicioPE/src/cilindro.h
+iostream
+-
+
+/home/usuario/practicas/Practica12/EjercicioPE/src/cilindro_main.cc
+cilindro.h
+/home/usuario/practicas/Practica12/EjercicioPE/src/cilindro.h
+
